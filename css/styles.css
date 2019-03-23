@@ -96,3 +96,10 @@ color: black;
   margin-top: 130px;
   font-family: "Times New Roman", Times,serif;
 }
+
+
+.jumbotron {
+background-image: url(/img/sea.jpeg);
+background-size: cover;
+height: 100%;
+}
