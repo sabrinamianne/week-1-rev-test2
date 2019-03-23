@@ -1,0 +1,98 @@
+a {
+text-decoration: none;
+color: black;
+}
+
+.boxmodel h5 {
+  font-size: 25px;
+}
+
+
+.boxmodel {
+  border: 1.5px solid grey;
+  padding: 2px;
+  background:  #66669970;
+  font-family: "Courrier New", Courier, serif;
+  font-size: 20px;
+}
+
+.container {
+  margin-left: 100px;
+}
+
+#left-text {
+  margin-top: 130px;
+  font-family: "Times New Roman", Times,serif;
+}
+
+.boxed-headline-left {
+  margin-bottom: 20px;
+  font-family: "Times New Roman", Times,serif;
+}
+
+#right-text {
+  margin-top: 130px;
+  font-family: "Times New Roman", Times,serif;
+}
+
+.boxed-headline-right {
+  margin-bottom: 20px;
+  font-family: "Times New Roman", Times,serif;
+}
+
+[class^="boxed-headline2"] {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  font-family: fantasy;
+  font-size: 20px;
+  align-content: center;
+}
+
+.sidebar-sticky {
+  background-color: blue
+  position: fixed;
+  float: left;
+  width: 100px;
+  height: 100%;
+}
+
+.sidebar-sticky img {
+  border: 2px solid grey;
+  padding: 2px;
+  width: 50px;
+  margin: 1px;
+}
+
+.boxmodel-2 {
+  border: 1.5px solid grey;
+  padding: 3px;
+  background:  #66669970;
+  margin-top: 30px;
+}
+
+.boxmodel-2 h5 {
+  font-family: "Courrier New", Courier, serif;
+  font-size: 20px;
+  text-align-last: right;
+}
+
+.boxmodel-2 p {
+  font-family: "Courrier New", Courier, serif;
+  font-size: 17px;
+  display: inline;
+}
+
+.special {
+  color: red;
+  font-weight: bold;
+}
+
+#bg {
+  margin-top: 130px;
+  font-family: "Times New Roman", Times,serif;
+}
+
+#ex{
+  margin-top: 130px;
+  font-family: "Times New Roman", Times,serif;
+}
